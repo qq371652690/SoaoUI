@@ -1,0 +1,56 @@
+2020-01-01 19:08:09,085 INFO o.a.j.u.JMeterUtils: Setting Locale to zh_CN
+2020-01-01 19:08:09,096 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2020-01-01 19:08:09,096 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2020-01-01 19:08:09,097 INFO o.a.j.JMeter: Setting JMeter property: jmeter.save.saveservice.output_format=xml
+2020-01-01 19:08:09,101 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2020-01-01 19:08:09,101 INFO o.a.j.JMeter: Version 4.0 r1823414
+2020-01-01 19:08:09,101 INFO o.a.j.JMeter: java.version=1.8.0_144
+2020-01-01 19:08:09,101 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2020-01-01 19:08:09,101 INFO o.a.j.JMeter: os.name=Windows 10
+2020-01-01 19:08:09,101 INFO o.a.j.JMeter: os.arch=amd64
+2020-01-01 19:08:09,101 INFO o.a.j.JMeter: os.version=10.0
+2020-01-01 19:08:09,101 INFO o.a.j.JMeter: file.encoding=GBK
+2020-01-01 19:08:09,101 INFO o.a.j.JMeter: Max memory     =3795845120
+2020-01-01 19:08:09,101 INFO o.a.j.JMeter: Available Processors =8
+2020-01-01 19:08:09,107 INFO o.a.j.JMeter: Default Locale=中文 (中国)
+2020-01-01 19:08:09,107 INFO o.a.j.JMeter: JMeter  Locale=中文 (中国)
+2020-01-01 19:08:09,107 INFO o.a.j.JMeter: JMeterHome=D:\apache-jmeter-4.0
+2020-01-01 19:08:09,107 INFO o.a.j.JMeter: user.dir  =D:\apache-jmeter-4.0\bin
+2020-01-01 19:08:09,107 INFO o.a.j.JMeter: PWD       =D:\apache-jmeter-4.0\bin
+2020-01-01 19:08:09,109 INFO o.a.j.JMeter: IP: 192.168.0.107 Name: DESKTOP-STSBMQU FullName: DESKTOP-STSBMQU
+2020-01-01 19:08:09,111 INFO o.a.j.s.FileServer: Default base='D:\apache-jmeter-4.0\bin'
+2020-01-01 19:08:09,114 INFO o.a.j.s.FileServer: Set new base='D:\apache-jmeter-4.0\testSuite\script'
+2020-01-01 19:08:09,217 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2020-01-01 19:08:09,227 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2020-01-01 19:08:09,231 INFO o.a.j.s.SaveService: Using SaveService properties version 4.0
+2020-01-01 19:08:09,235 INFO o.a.j.s.SaveService: Loading file: D:\apache-jmeter-4.0\testSuite\script\查询手机归属地.jmx
+2020-01-01 19:08:09,289 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-01-01 19:08:09,289 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-01-01 19:08:09,289 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-01-01 19:08:09,289 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-01-01 19:08:09,289 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2020-01-01 19:08:09,289 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2020-01-01 19:08:09,298 INFO o.a.j.JMeter: Creating summariser <summary>
+2020-01-01 19:08:09,302 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2020-01-01 19:08:09,303 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-01-01 19:08:09,303 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-01-01 19:08:09,306 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2020-01-01 19:08:09,307 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2020-01-01 19:08:09,563 INFO o.a.j.JMeter: 正在运行的测试 (1577876889563)
+2020-01-01 19:08:09,601 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : 线程组
+2020-01-01 19:08:09,601 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group 线程组.
+2020-01-01 19:08:09,601 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-01-01 19:08:09,602 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2020-01-01 19:08:09,606 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2020-01-01 19:08:09,606 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2020-01-01 19:08:09,609 INFO o.a.j.t.JMeterThread: Thread started: 线程组 1-1
+2020-01-01 19:08:09,626 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = DESKTOP-STSBMQU
+2020-01-01 19:08:09,631 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2020-01-01 19:08:09,638 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2020-01-01 19:08:09,638 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2020-01-01 19:08:09,638 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2020-01-01 19:08:09,638 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2020-01-01 19:08:09,889 INFO o.a.j.t.JMeterThread: Thread is done: 线程组 1-1
+2020-01-01 19:08:09,889 INFO o.a.j.t.JMeterThread: Thread finished: 线程组 1-1
+2020-01-01 19:08:09,890 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2020-01-01 19:08:09,891 INFO o.a.j.r.Summariser: summary =      1 in 00:00:00 =    3.0/s Avg:   224 Min:   224 Max:   224 Err:     0 (0.00%)
